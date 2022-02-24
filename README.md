@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+<!-- [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-reyes314)](https://github.com/anuraghazra/github-readme-stats)
