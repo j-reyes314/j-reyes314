@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Linkedin: Joshua Reyes](https://img.shields.io/badge/-Joshua Reyes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j-reyes-314000/)](https://www.linkedin.com/in/j-reyes-314000/)
+[![Linkedin: Joshua Reyes](https://img.shields.io/badge/-JoshuaReyes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j-reyes-314000/)](https://www.linkedin.com/in/j-reyes-314000/)
 
 <!--
 **j-reyes314/j-reyes314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
