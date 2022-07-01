@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align='right' src="https://giphy.com/embed/iIGT8Y1rOYhBpdHh1C" width="230">
+<img align='right' src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="230">
 
 <iframe src="https://giphy.com/embed/iIGT8Y1rOYhBpdHh1C" width="480" height="450" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/code-coding-coder-iIGT8Y1rOYhBpdHh1C">via GIPHY</a></p>
 
