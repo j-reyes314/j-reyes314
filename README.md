@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1>I'm Josh</h1>
-<h3>Aspiring Software Engineer</h3>
+<img src="https://media.giphy.com/media/VQssGEmpkyEOhBCb7e1/giphy.gif" width="50"><h3>Aspiring Software Engineer</h3><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50">
   
 <p>I love to meet new people, feel free to email me at j_reyes314@yahoo.com or visit <a href='https://joshanthonyreyes.com/'>my website</a>.</p>
 
