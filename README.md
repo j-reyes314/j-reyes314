@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-<h1>I'm Josh<h1>
-<h3>Aspiring Software Engineer<h3>
+<h1>I'm Josh</h1>
+<h3>Aspiring Software Engineer</h3>
   
-<p>I love to meet new people, feel free to email me at j_reyes314@yahoo.com or visit <a href='https://joshanthonyreyes.com/'>my website<a>.<p>
+<p>I love to meet new people, feel free to email me at j_reyes314@yahoo.com or visit <a href='https://joshanthonyreyes.com/'>my website</a>.</p>
 
 <img align='right' src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="230">
   
-###Some tools I use:
+### Some tools I use:
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
